@@ -24,10 +24,10 @@ Python, Streamlit and Pandas
 Your mistakes are saved locally in `mistakes.csv` and are never uploaded.
 
 ## Screenshots
-(coming soon)
-
-## What I learned
-(write this yourself)
+![Add a mistake](screenshots/form.png)
+![Filter and browse](screenshots/table.png)
+![Analytics](screenshots/charts.png)
+![Re-solve mode](screenshots/resolve.png)
 
 ## Future ideas
 - Save a date with each mistake and chart progress over time
